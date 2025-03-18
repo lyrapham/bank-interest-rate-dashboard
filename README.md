@@ -32,31 +32,8 @@ Welcome to my Bank Interest Rate Dashboard! This interactive tool helps you comp
 The dashboard currently uses simulated data that reflects typical market rates with realistic variations. The data is updated daily and includes:
 - 10 major Vietnamese banks
 - 4 major Canadian banks
-- Historical data for the past 12 months
 - Various term deposits from 1 to 36 months
-
-## 🛠️ Technical Details
-
-Built with:
-- **Streamlit**: For the web interface
-- **Plotly**: For interactive visualizations
-- **Pandas**: For data manipulation
-- **NumPy**: For numerical operations
-
-## 🤝 Contributing
-
-Feel free to contribute to this project! You can:
-- Report bugs
-- Suggest new features
-- Add more banks or countries
-- Improve visualizations
 
 ## 👩‍💻 About the Author
 
 Created with 💖 by [Lyra Pham](https://www.linkedin.com/in/lyrapham/). Check out my profile for more cool projects!
-
-
-This project is open source and available under the MIT License.
-
----
-Made with �� and code in 2025
