@@ -2,6 +2,7 @@
 
 Welcome to my Bank Interest Rate Dashboard! This interactive tool helps you compare interest rates across major banks in Vietnam and Canada. Whether you're looking for the best savings rates or analyzing market trends, this dashboard has got you covered! 
 
+Mar 2025 updated: Unfortunately I have to delete the Canadian banks out of the dashboard since I have not found the trustes sources :( If you know, let me know by lyrapham1@gmail.com
 ## ✨ Features
 
 - 📊 **Real-time Visualization**: Interactive charts and graphs showing interest rate trends
@@ -10,24 +11,10 @@ Welcome to my Bank Interest Rate Dashboard! This interactive tool helps you comp
 - 💡 **Smart Insights**: Get personalized investment suggestions based on current rates
 - 🎯 **Market Analysis**: See how banks rank and identify the best opportunities
 
-## 🚀 Quick Start
+## Screenshoot
 
-1. Make sure you have Python 3.8+ installed
-2. Clone this repository:
-   ```bash
-   git clone https://github.com/lyrapham/bank-interest-dashboard.git
-   cd bank-interest-dashboard
-   ```
+![image](https://github.com/user-attachments/assets/f51b3549-fc08-4fb0-98ca-4850ac53470b)
 
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Run the dashboard:
-   ```bash
-   streamlit run src/app.py
-   ```
 
 ## 🎮 How to Use
 
@@ -68,7 +55,6 @@ Feel free to contribute to this project! You can:
 
 Created with 💖 by [Lyra Pham](https://www.linkedin.com/in/lyrapham/). Check out my profile for more cool projects!
 
-## 📝 License
 
 This project is open source and available under the MIT License.
 
