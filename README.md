@@ -1,6 +1,6 @@
-# 🏦 Bank Interest Rate Dashboard
+# 🏦 Interactive Vietnamese Bank Interest Rate Dashboard
 
-Welcome to my Bank Interest Rate Dashboard! This interactive tool helps you compare interest rates across major banks in Vietnam and Canada. Whether you're looking for the best savings rates or analyzing market trends, this dashboard has got you covered! 
+Welcome to my Bank Interest Rate Dashboard! This interactive tool helps you compare interest rates across major banks in Vietnam. Whether you're looking for the best savings rates or analyzing market trends, this dashboard has got you covered! 
 
 **Mar 2025 updated:** _I have rewrite the whole code to have better structure and visualization. Unfortunately I have to remove the Canadian banks out of the dashboard since I have not found the trustes sources :( If you know, let me know by lyrapham1@gmail.com_
 ## ✨ Features
